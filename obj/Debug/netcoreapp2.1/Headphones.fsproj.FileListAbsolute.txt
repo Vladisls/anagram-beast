@@ -1,0 +1,10 @@
+C:\Users\Vladislav\Documents\helmestest\Headphones\bin\Debug\netcoreapp2.1\Headphones.deps.json
+C:\Users\Vladislav\Documents\helmestest\Headphones\bin\Debug\netcoreapp2.1\Headphones.runtimeconfig.json
+C:\Users\Vladislav\Documents\helmestest\Headphones\bin\Debug\netcoreapp2.1\Headphones.runtimeconfig.dev.json
+C:\Users\Vladislav\Documents\helmestest\Headphones\bin\Debug\netcoreapp2.1\Headphones.dll
+C:\Users\Vladislav\Documents\helmestest\Headphones\bin\Debug\netcoreapp2.1\Headphones.pdb
+C:\Users\Vladislav\Documents\helmestest\Headphones\obj\Debug\netcoreapp2.1\Headphones.fsprojAssemblyReference.cache
+C:\Users\Vladislav\Documents\helmestest\Headphones\obj\Debug\netcoreapp2.1\Headphones.AssemblyInfoInputs.cache
+C:\Users\Vladislav\Documents\helmestest\Headphones\obj\Debug\netcoreapp2.1\Headphones.AssemblyInfo.fs
+C:\Users\Vladislav\Documents\helmestest\Headphones\obj\Debug\netcoreapp2.1\Headphones.dll
+C:\Users\Vladislav\Documents\helmestest\Headphones\obj\Debug\netcoreapp2.1\Headphones.pdb

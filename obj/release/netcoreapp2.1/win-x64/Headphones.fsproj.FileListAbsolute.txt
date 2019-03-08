@@ -1,0 +1,13 @@
+C:\Users\Vladislav\Documents\helmestest\Headphones\bin\release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\Vladislav\Documents\helmestest\Headphones\bin\release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\Vladislav\Documents\helmestest\Headphones\bin\release\netcoreapp2.1\win-x64\Headphones.exe
+C:\Users\Vladislav\Documents\helmestest\Headphones\bin\release\netcoreapp2.1\win-x64\Headphones.deps.json
+C:\Users\Vladislav\Documents\helmestest\Headphones\bin\release\netcoreapp2.1\win-x64\Headphones.runtimeconfig.json
+C:\Users\Vladislav\Documents\helmestest\Headphones\bin\release\netcoreapp2.1\win-x64\Headphones.runtimeconfig.dev.json
+C:\Users\Vladislav\Documents\helmestest\Headphones\bin\release\netcoreapp2.1\win-x64\Headphones.dll
+C:\Users\Vladislav\Documents\helmestest\Headphones\bin\release\netcoreapp2.1\win-x64\Headphones.pdb
+C:\Users\Vladislav\Documents\helmestest\Headphones\obj\release\netcoreapp2.1\win-x64\Headphones.fsprojAssemblyReference.cache
+C:\Users\Vladislav\Documents\helmestest\Headphones\obj\release\netcoreapp2.1\win-x64\Headphones.AssemblyInfoInputs.cache
+C:\Users\Vladislav\Documents\helmestest\Headphones\obj\release\netcoreapp2.1\win-x64\Headphones.AssemblyInfo.fs
+C:\Users\Vladislav\Documents\helmestest\Headphones\obj\release\netcoreapp2.1\win-x64\Headphones.dll
+C:\Users\Vladislav\Documents\helmestest\Headphones\obj\release\netcoreapp2.1\win-x64\Headphones.pdb
